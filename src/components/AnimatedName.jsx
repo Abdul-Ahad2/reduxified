@@ -73,7 +73,7 @@ const AnimatedName = () => {
           className="absolute bottom-0 right-0 w-12 h-12 bg-gradient-to-r from-indigo-400 to-purple-500 rounded-full"
         ></div>
         <h1 ref={nameRef} className="text-6xl md:text-8xl font-bold text-white">
-          Apply For Tournament, Nigga
+          Apply For Tournament Below
         </h1>
       </div>
     </div>
